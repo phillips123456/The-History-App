@@ -47,7 +47,7 @@ class MainActivity() : AppCompatActivity(), Parcelable {
 
         btnGenerate.setOnClickListener {
           var message: String = ""
-
+            
             when(etEnterAge.toString()) {
 
                 "50" -> message = "You are ${etEnterAge.toString()} : You are the same age as Michael Jackson, Michael was an American Singer and Dancer "
