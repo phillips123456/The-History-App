@@ -44,6 +44,19 @@ class MainActivity() : AppCompatActivity(), Parcelable {
         btnClear.setOnClickListener {
             etEnterAge.clear()
         }
+        //Code Attrubution
+        //This method was taken from Stack Overflow
+        //https://stackoverflow.com/questions/70531303/kotlin-multiple-when-statement
+        //spaceCoder
+        //https://stackoverflow.com/users/17317962/spacecoder
+
+        //Code Attribution
+        //This method was taken from GitHub
+        //https://github.com/navinreddy20/kotlin/blob/master/16%20When%20Expression.txt
+        //Telusko
+
+        //Comments
+        //This method was taken from YouTube
 
         btnGenerate.setOnClickListener {
           var message: String = ""
