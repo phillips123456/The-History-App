@@ -137,3 +137,7 @@ Figure 9: Desmond Tutu(Wikipedia, 2024)
 ![image](https://github.com/phillips123456/The-History-App/assets/163407311/3a9c4c44-ca40-40cc-9091-56d7d9cf85d4)
 
 Figure 10: Winnie Mandela(Wikipedia, 2024) 
+
+YouTube Video Link:
+https://youtu.be/12MJbFoC5kQ?si=a041ecEgX6giyNdE
+
